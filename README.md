@@ -112,3 +112,5 @@ Pictured:  **[btop](https://linuxblog.io/btop-the-htop-alternative/)**  – *Als
 106.  `diff`: Compare files line by line. It's particularly useful for comparing text files such as scripts or configuration files to find differences.
 
 PLUS: [60 Linux Networking commands and scripts](https://linuxblog.io/linux-networking-commands-scripts/ "60 Linux Networking commands and scripts").
+
+**Source**: [LinuxBlog.io](https://linuxblog.io/90-linux-commands-frequently-used-by-linux-sysadmins/)
