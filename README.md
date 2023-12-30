@@ -14,7 +14,7 @@ Pictured:  **[btop](https://linuxblog.io/btop-the-htop-alternative/)**  – *Als
 8.  [`ncdu`](https://linuxblog.io/linux-ncdu-manage-large-directories/)  – a disk utility for Unix systems.  
 9.  [`pstree`](https://linuxblog.io/pstree-command-in-linux-examples/)  – display a tree of processes.  
 10.  [`last`](https://linuxblog.io/last-command-in-linux-with-examples-view-history-of-user-logins/)  – show a listing of last logged-in users.  
-11.  `[w](https://linuxblog.io/linux-commands-frequently-used-by-linux-sysadmins-part-1/)`  – show a list of currently logged-in user sessions.  
+11.  [`w`](https://linuxblog.io/linux-commands-frequently-used-by-linux-sysadmins-part-1/)  – show a list of currently logged-in user sessions.  
 12.  [`grep`](https://linuxblog.io/grep-command-in-linux-w-examples/)  – Search a file for a pattern of characters, then display all matching lines.
 13.  [`uptime`](https://linuxblog.io/uptime-command-linux/) – shows system uptime and load average.  
 14.  [`top`](https://linuxblog.io/linux-top-customize-it/) – shows an overall system view.  
@@ -25,7 +25,7 @@ Pictured:  **[btop](https://linuxblog.io/btop-the-htop-alternative/)**  – *Als
 19.  [`iotop`](https://linuxblog.io/iotop-command-in-linux-w-examples/) – interactive I/O viewer. Get an overview of storage r/w activity.  
 20.  [`iostat`](https://linuxblog.io/iostat-command-in-linux-with-examples/) – for storage I/O statistics.  
 21.  [`netstat`](https://linuxblog.io/netstat-command-in-linux-with-examples/) – for network statistics.  
-22.  `[ss](https://linuxblog.io/ss-command-in-linux-with-examples/)`  – utility to investigate sockets.  
+22.  [`ss`](https://linuxblog.io/ss-command-in-linux-with-examples/) – utility to investigate sockets.  
 23.  [`atop`](https://linuxblog.io/use-atop-linux-server-performance-analysis/)  – For Linux server performance analysis.  
 24.  [`Glances`](https://linuxblog.io/alternatives-top-htop/ "htop and top Alternatives: Glances, nmon")  and [`nmon`](https://linuxblog.io/alternatives-top-htop/ "htop and top Alternatives: Glances, nmon")  – htop and top Alternatives:  
 25.  [`ssh`](https://linuxblog.io/ssh-security-protecting-your-linux-server-from-threats/)  – secure command-line access to remote Linux systems.  
@@ -101,4 +101,15 @@ Pictured:  **[btop](https://linuxblog.io/btop-the-htop-alternative/)**  – *Als
 95.  [`nload`](https://github.com/rolandriegel/nload)  – a super simple, command-line network interface monitoring tool.  
 96.  `history`  – used to view the previously executed commands.  
 97.  [`sar`](https://linuxblog.io/linux-server-need-ram-upgrade-lets-check-free-top-vmstat-sar/)  – collects, reports, and saves system activity information, including CPU, memory, disk, and network usage.  
-98.  PLUS: [60 Linux Networking commands and scripts](https://linuxblog.io/linux-networking-commands-scripts/ "60 Linux Networking commands and scripts")._
+98. `lsof`: List open files and the corresponding processes. This command is invaluable for troubleshooting and understanding what files are used by processes.
+99. `awk`: A powerful pattern scanning and processing language. It's used to manipulate data and generate reports.
+100.  `sed`: A stream editor used to perform basic text transformations on an input stream (a file or input from a pipeline).
+101.  `watch`: Execute a program periodically, showing output fullscreen. It's useful for monitoring commands or scripts that update regularly.
+102.  `crontab`: Schedule commands to run periodically at fixed times, dates, or intervals with the cron daemon.
+103.  `alias`: Create an alias for Linux commands. It's a shorthand way to customize and streamline your command-line experience.
+104.  `lspci`: List all PCI devices. This is particularly useful for diagnosing hardware and system problems related to PCI devices.
+105.  `lsusb`: List USB devices. Similar to `lspci`, but for USB hardware connected to the system.
+106.  `ln`: Make links between files. By creating a link, you can access the linked file by more than one path.
+107.  `diff`: Compare files line by line. It's particularly useful for comparing text files such as scripts or configuration files to find differences.
+
+Bonus: [60 Linux Networking commands and scripts](https://linuxblog.io/linux-networking-commands-scripts/ "60 Linux Networking commands and scripts").
