@@ -1,5 +1,9 @@
 
-Here I've **listed over 100 Linux commands**. There are even more commands if we include downloadable software and scripts, such as  [btop](https://linuxblog.io/btop-the-htop-alternative/)  (pictured below). However, we will only cover Unix commands used on Linux by sysadmins and power users.
+Here I've **listed over 100 Linux commands**. There are even more commands if we include downloadable software and scripts, such as  [btop](https://linuxblog.io/btop-the-htop-alternative/)  (pictured below). I use glances and also it provide the support for the better visualization of the sandboxes when i am forking the docker and inspecting the same. ``` brew install glances ``` and with kubernetes it works great as minimal window and application view. 
+
+![glances](https://github.com/sablokgaurav/100-Linux-Commands/blob/main/glances.png)
+
+However, we will only cover Unix commands used on Linux by sysadmins and power users.
 
 ![bpytop - Linux Commands frequently used by Linux Sysadmins](https://static.linuxblog.io/wp-content/uploads/2020/10/bpytop-868x469.png "bpytop - Linux Commands frequently used by Linux Sysadmins")  
 Pictured:  **[btop](https://linuxblog.io/btop-the-htop-alternative/)**  – *Also see: [network command-line tools available](https://linuxblog.io/linux-networking-commands-scripts/).*
